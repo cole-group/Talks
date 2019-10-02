@@ -1,2 +1,2 @@
 # Talks
-Talks slides
+Talk slides
